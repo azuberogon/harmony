@@ -9,7 +9,6 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        maven("https://maven.spotify.com")
     }
 }
 dependencyResolutionManagement {
@@ -20,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "V2"
+rootProject.name = "Harmony"
 include(":app")
  

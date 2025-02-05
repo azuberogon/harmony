@@ -1,4 +1,4 @@
-package com.example.v2
+package com.example.harmony
 
 import org.junit.Test
 
