@@ -1,0 +1,75 @@
+<resources>
+    <!--Pagina inicio-->
+    <string name="nombreAplicacion">Harmony</string>
+    <string name="esloganAplicacion">Music inspires life</string>
+    <string name="logIn">Log In</string>
+    <string name="signIn">Sign In</string>
+
+    <!--Login-->
+    <string name="nombreUsuario">Nombre Usuario</string>
+    <string name="contrasenya">Contraseña</string>
+    <string name="iniciarSesion">Iniciar sesion</string>
+
+    <!--Sign in-->
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="correoElectronico">Correo electrónico</string>
+    <string name="crearCuenta">Crear cuenta</string>
+
+    <!--Home: Nada-->
+
+    <!--Search-->
+    <string name="buscador">Busca cancion, Artista...</string>
+    <string name="resultados">Resultados:</string>
+
+    <!--Scann: Nada-->
+
+    <!--Info-->
+    <string name="encabezadoInfo">Terminos y condiciones de servicio</string>
+
+    <string name="terminosYCondiciones">
+        Al usar Harmony, aceptas estos términos y nuestras políticas.
+        Debes registrarte con información real y eres responsable de la seguridad de tu cuenta.
+        Ofrecemos planes gratuitos con anuncios y premium sin publicidad; los pagos son recurrentes y no reembolsables.
+        No puedes descargar ni usar la música con fines comerciales, y cualquier infracción resultará en la suspensión de tu cuenta.
+        Harmony puede actualizar estos términos en cualquier momento sin previo aviso.
+    </string>
+
+    <string name="cerrarSesion">Cerrar Sesión</string>
+
+    <!--Album: Nada-->
+
+    <!--Info Logout-->
+    <string name="encabezadoLout">¡Cuidado!</string>
+    <string name="avisoLogout">¿Seguro que quieres cerrar sesión?</string>
+
+    <!--Delete Confirmed-->
+    <string name="sesionCerrada">Se ha cerrado la Sesión</string>
+    <string name="volverAPaginaInicial">Pagina de inicio</string>
+
+    <!--Perfil-->
+    <string name="playlistGuardadas">Playlist Guardadas</string>
+    <string name="cancionesFavoritas">Canciones Favoritas</string>
+    <string name="editar">Editar</string>
+    <string name="verMas">Ver más</string>
+
+    <!--Reproduccion Cancion-->
+    <string name="favoritos">Favoritos</string>
+    <string name="guardar">Guardar</string>
+
+    <!--Perfil-->
+    <string name="seguidores">Seguidores</string>
+    <string name="siguiendo">Siguiendo</string>
+
+    <!--Editar Perfil-->
+    <string name="subir">Subir</string>
+    <string name="guardarDatos">Guardar datos</string>
+
+    <!--ERRORES-->
+    <string name="errConexion">Error de conexión</string>
+
+
+
+
+
+
+</resources>
